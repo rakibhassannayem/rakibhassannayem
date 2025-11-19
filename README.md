@@ -2,22 +2,54 @@
   <img src="https://dinqvfxgquqzbhnuwycg.supabase.co/storage/v1/object/public/DocIcons/gitHubBanner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Rakib Hassan Nayem</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F71FE9&center=true&vCenter=true&width=435&lines=Hi%2C+I%E2%80%99m+Nayem%F0%9F%91%8B%2CMERN+Stack+Developer" alt="Typing SVG" /></a>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibhassannayem&label=Profile%20views&color=0e75b6&style=flat" alt="rakibhassannayem" /> </p>
+# 💫 About Me:
+Passionate MERN Stack Developer focusing on building modern, scalable and user-friendly web applications.  <br>I love exploring new technologies and improving my skills.<br><br>🔭 I’m currently exploring Next.js<br>🌱 I’m working on performance & UI/UX of Websites<br>⚡ I love solving real-world problems with JavaScript<br>🚀 Currently practicing reusable UI components
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rakibhassannayem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibhassannayem" height="30" width="40" /></a>
-<a href="https://fb.com/rhnayem23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nayem9259" height="30" width="40" /></a>
+
+## 🌐 Socials:
+<a href="https://facebook.com/rhnayem23" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/rakibhassannayem" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@rakibhassan_nayem" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
+</a>
+
+
+# 🧑‍💻 Skills
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="50" title="html" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" title="react" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" title="firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" title="nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" title="express" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" title="mongodb" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" title="figma" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" title="css" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" title="tailwind" />
+</div>
+
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakibhassannayem&theme=radical&hide_border=false&show_icons=true" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rakibhassannayem&theme=radical&hide_border=false" height="160"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhassannayem&layout=compact&theme=radical&hide_border=false" height="160"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibhassannayem&show_icons=true&locale=en&layout=compact" alt="rakibhassannayem" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibhassannayem&show_icons=true&locale=en" alt="rakibhassannayem" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=rakibhassannayem&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhassannayem&" alt="rakibhassannayem" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
