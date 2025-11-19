@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/7JC9nBBY/Github-Banner.png" alt="Banner" width="100%" />
+  <img src="https://dinqvfxgquqzbhnuwycg.supabase.co/storage/v1/object/public/DocIcons/Untitled%20design.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rakib Hassan Nayem</h1>
