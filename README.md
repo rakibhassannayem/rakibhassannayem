@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co.com/40QvQvN/Generated-Image-November-19-2025-12-06-AM.png" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Rakib Hassan Nayem</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
@@ -6,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rakibhassannayem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibhassannayem" height="30" width="40" /></a>
-<a href="https://fb.com/nayem9259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nayem9259" height="30" width="40" /></a>
+<a href="https://fb.com/rhnayem23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nayem9259" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
