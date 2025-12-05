@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://dinqvfxgquqzbhnuwycg.supabase.co/storage/v1/object/public/DocIcons/gitHubBanner.png" alt="Banner" width="100%" />
+  <img src="./gitHubBanner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">
